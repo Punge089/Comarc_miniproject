@@ -1,5 +1,7 @@
 SAP-1 Verilog Mini Project
 
+ลิ้ง report_v2 : https://docs.google.com/document/d/1j-WHbk19SJPMEqLg20Xl5C-6jCeKzmsBSWOBTCpixcw/edit?usp=sharing
+
 VERILOG FILES (load all into Vivado in this order):
   1. program_counter.v     Program Counter (PC)
   2. mar.v                 Memory Address Register
